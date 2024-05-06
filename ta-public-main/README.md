@@ -8,6 +8,6 @@ Class: L4AC
 
 ## FastAPI design
 
-![FastApi](/react-todo-list/src/assets/FastAPI.png)
+![FastApi](/ta-public-main/react-todo-list/src/assets/FastAPI.png)
 
-![FastApi](/react-todo-list/src/assets/Endpoint.png)
+![FastApi](/ta-public-main/react-todo-list/src/assets/Endpoint.png)
